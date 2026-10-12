@@ -1,0 +1,21 @@
+{
+  "name": "reel-to-action",
+  "owner": {
+    "name": "Lukas Hager",
+    "url": "https://github.com/Hagetino"
+  },
+  "metadata": {
+    "description": "Turn short-form videos into transcripts, key frames and an honest can-I-do-this verdict."
+  },
+  "plugins": [
+    {
+      "name": "reel-to-action",
+      "source": "./",
+      "description": "Watch a reel / TikTok / Short / X video locally (download, whisper.cpp transcript, scene-change frames) and check whether Claude can do what it says.",
+      "version": "1.0.0",
+      "author": { "name": "Lukas Hager" },
+      "category": "productivity",
+      "homepage": "https://github.com/Hagetino/reel-to-action"
+    }
+  ]
+}

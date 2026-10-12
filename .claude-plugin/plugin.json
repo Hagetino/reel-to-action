@@ -1,0 +1,13 @@
+{
+  "name": "reel-to-action",
+  "version": "1.0.0",
+  "description": "Send Claude an Instagram reel, TikTok, YouTube Short or X video. It downloads it, transcribes it locally with whisper.cpp, looks at the key frames, and tells you whether it can actually do what the video says.",
+  "author": {
+    "name": "Lukas Hager",
+    "url": "https://github.com/Hagetino"
+  },
+  "homepage": "https://github.com/Hagetino/reel-to-action",
+  "repository": "https://github.com/Hagetino/reel-to-action",
+  "license": "MIT",
+  "keywords": ["instagram", "reels", "tiktok", "youtube-shorts", "transcription", "whisper", "video", "skill"]
+}
